@@ -5,24 +5,7 @@ Welcome to my first journey into learning Playwright and test automation!
 
 This repository is part of my learning journey to understand how to automate web applications using Playwright with JavaScript. I am practicing the fundamentals of automated testing and learning how to organize test code using the Page Object Model (POM) design pattern.
 
-Learning Objectives
 
-Through this project, I aim to learn:
-
-The fundamentals of Playwright automation testing.
-How to write and execute automated test scripts.
-How to use locators to interact with web elements.
-How to perform actions such as clicking, typing, and validating page content.
-How to organize test code using the Page Object Model (POM).
-How to manage test configuration using playwright.config.js.
-How to use Git and GitHub to manage and share my code.
-How to analyze test results and troubleshoot failures.
-Technologies Used
-Playwright – Web automation and end-to-end testing.
-JavaScript – Programming language for writing test scripts.
-Node.js and npm – JavaScript runtime and package management.
-Git and GitHub – Version control and project hosting.
-Visual Studio Code – Code editor.
 Project Structure
 text
 Playwright_PageObjectModel/
